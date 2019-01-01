@@ -1,0 +1,16 @@
+{
+    "blackhole": {
+        "websocket_provider": "wss://mainnet.infura.io/ws",
+        "critic_block": "0",
+        "minimum_amount": "1",
+        "symbol": "QBE",
+        "decimals": "18",
+        "tokens": "100000000"
+    },
+    "eosiotoken": {
+        "chain_id": "4667b205c6838ef70ff7988f6e8257e8be0e1284a2f59699054a018f743b1d11",
+        "http_endpoint": "https://api.eos.miami",
+        "account": "qubicletoken",
+        "private_key": ""
+    }
+}
